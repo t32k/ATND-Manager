@@ -5,7 +5,7 @@
 // @version      0.1
 // @author       Koji Ishimoto
 // @include      http://atnd.org/users/*
-// @icon         https://github.com/t32k/ATNDer-List-Maker/raw/master/icon.png
+// @icon         https://github.com/t32k/ATND-Manager/raw/master/icon.png
 // ==/UserScript==
 (function () {
   var s = document.createElement('script');
