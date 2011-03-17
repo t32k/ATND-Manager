@@ -9,6 +9,6 @@
 // ==/UserScript==
 (function () {
   var s = document.createElement('script');
-  s.src = 'http://t32k.com/execution.js';
+  s.src = 'https://github.com/t32k/ATND-Manager/raw/master/execution.js';
   document.body.appendChild(s);
 })();
