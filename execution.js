@@ -33,8 +33,7 @@ function toggleTwitList(obj) {
 }
 
 function callback(json) {
-    var i, atnder,
-	userLen = json.events[0].users.length,
+    var i, atnder, userLen = json.events[0].users.length,
         sect = document.createElement("section"),
         list = document.createElement("ul");
     list.setAttribute("class", "twitList");
